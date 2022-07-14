@@ -1,0 +1,5 @@
+In file1.py, file2.py and file3.py given examples of 
+
+class..object..constructor..inheritance..private..public..protected..abstraction..encaptulations..polymorpsim..package..modules..method overrridding
+
+Created 2 packages test1 and test2 to give examples of packages, modules and import function
